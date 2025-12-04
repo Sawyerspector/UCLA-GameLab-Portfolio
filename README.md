@@ -7,7 +7,7 @@ https://si.games.ucla.edu/2023/session-a/
 
 ---
 
-## 📘 1. **The Cure – Board/Card Game**
+## 1. **The Cure – Board/Card Game**
 A full tabletop game designed over the course of the program, including:
 - Custom player roles and attribute systems  
 - Monster and trap mechanics  
@@ -19,43 +19,43 @@ A full tabletop game designed over the course of the program, including:
 
 ---
 
-## 🎮 2. **3D Unreal Engine Game**
+## 2. **3D Unreal Engine Game**
 A short narrative-driven 3D experience built in **Unreal Engine**, focusing on:
 - Environment design  
 - Blueprint scripting for player interaction  
 - Lighting, pacing, and worldbuilding  
 - Iterative level layout and storytelling through space  
 
-👉 **Gameplay Video:**  
+**Gameplay Video:**  
 [Watch 3D Unreal Game](./3d-unreal-game/gameplay.mp4)
 
 ---
 
-## 🎮 3. **2D Unreal Engine Game**
+## 3. **2D Unreal Engine Game**
 A 2D experimental platformer built with Unreal Engine’s Paper2D pipeline. Highlights:
 - Custom movement system  
 - Blueprint-based mechanics  
 - Hand-made sprites and VFX  
 - Tight iteration loop for game feel and responsiveness  
 
-👉 **Gameplay Video:**  
+**Gameplay Video:**  
 [Watch 2D Unreal Game](./2d-unreal-game/gameplay.mp4)
 
 ---
 
-## 🐎 4. **Horse Animation – Motion Study**
+## 4. **Horse Animation – Motion Study**
 A motion and silhouette study completed as part of UCLA’s animation exercises.
 This project focused on:
 - Conveying motion through minimal forms  
 - Character + mount silhouette rhythm  
 - Pose readability and timing exploration  
 
-👉 **Frame Preview:**  
+**Frame Preview:**  
 ![Horse Animation](./horse-animation/horse_frame.png)
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - **Unreal Engine (Blueprints + Level Design)**
 - **Photoshop / After Effects / Illustrator**
 - **Traditional drawing + digital sketch workflows**
@@ -63,7 +63,7 @@ This project focused on:
 
 ---
 
-## 📄 About This Portfolio
+## About This Portfolio
 Some original project files were stored on UCLA’s servers and are no longer accessible.  
 This repository provides:
 - Full PDFs where available  
