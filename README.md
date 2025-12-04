@@ -14,7 +14,7 @@ A full tabletop game designed over the course of the program, including:
 - Fully illustrated map  
 - Complete rulebook and print-ready card sheets  
 
-👉 **PDF:**  
+**PDF:**  
 [View The Cure](./the-cure-board-game/The_Cure.pdf)
 
 ---
