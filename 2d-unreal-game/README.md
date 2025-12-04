@@ -7,5 +7,8 @@ Includes:
 - Hand-drawn sprites and VFX
 - Iterative tuning for game feel
 
-**Gameplay Video:**  
-[Watch Video](./gameplay.mp4)
+## 🎥 Gameplay Video
+The full gameplay video is hosted on Google Drive:
+
+[Watch the 2D Unreal Game](https://drive.google.com/file/d/1r98VDOxq7iB9zwDLPBmsUe4qthg_sAU2/view?usp=sharing)
+
