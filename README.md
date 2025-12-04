@@ -38,8 +38,10 @@ A 2D experimental platformer built with Unreal Engine’s Paper2D pipeline. High
 - Hand-made sprites and VFX  
 - Tight iteration loop for game feel and responsiveness  
 
-**Gameplay Video:**  
-[Watch 2D Unreal Game](./2d-unreal-game/gameplay.mp4)
+## 🎥 Gameplay Video
+The full gameplay video is hosted on Google Drive:
+
+[Watch the 2D Unreal Game](https://drive.google.com/file/d/1r98VDOxq7iB9zwDLPBmsUe4qthg_sAU2/view?usp=sharing)
 
 ---
 
