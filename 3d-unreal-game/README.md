@@ -1,10 +1,14 @@
 # 3D Unreal Engine Game
 
-A short narrative-driven 3D environment built in Unreal Engine.  
-Features include:
-- Blueprint scripting
-- Level and environment design
-- Lighting, pacing, and atmosphere
+This project is a short narrative-driven 3D experience built at the UCLA Game Lab Summer Institute.
 
-**Gameplay Video:**  
-[Watch Video](./gameplay.mp4)
+## 🎥 Gameplay Video
+The full gameplay video is hosted on Google Drive:
+
+[Watch the 3D Unreal Game]([https://drive.google.com/file/d/XXXXXXXX/preview](https://drive.google.com/file/d/1YlHAOFnCppHMQTIQXmSaV436Js7GWEMT/view?usp=sharing))
+
+## Project Overview
+- Unreal Engine (Blueprints)
+- Environment + level design
+- Lighting, pacing, and atmosphere
+- Iterative design workflow
